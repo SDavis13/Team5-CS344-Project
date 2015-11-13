@@ -1,0 +1,151 @@
+body{
+	Color: #352A14;
+	font-family: Verdana;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #19191B;
+				font-family: 'Trebuchet MS', serif;
+	line-height: 1.6
+}
+/* Head */
+header{
+	background-image: url('images/logo.png'), url('images/back.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 200px;
+	border-radius: 15px 15px 0px 0px;
+}
+/*nav */
+ul{
+	margin:0;
+	padding:0;
+}
+li{
+	width:20%;
+	height:50px;
+	float:left;
+	color:#191919;
+	text-align:center;
+	overflow:hidden;
+}
+a{
+	color:#FFF;
+	text-decoration:none;
+}
+p{
+	padding:0px 5px;
+}
+.subtext{
+	padding-top:15px;
+}
+/*Menu Color Classes*/
+.orange{
+	background:#FFBC59;
+}
+.donate{
+	background: red;
+}
+/*filler*/
+#filler{
+	background-color: white;
+	height: 290px;
+	background-image: url('images/pic.png'), url('images/back.png');
+}
+/* body */
+#wrapper { 
+	background-color: #EFEFEF;
+	margin-right : auto;
+	margin-left : auto;
+	min-width: 980px;
+	min-height: 520px;
+	max-width: 1000px;
+	border-radius: 15px;
+}
+.border{
+	margin: 15px;
+	border-radius: 25px;
+	padding: 10px;
+	border: 2px solid #a1a1a1;
+	background: #dddddd;
+	background:rgba(255,255,255,0.5);
+	min-height: 100px;
+	max-width: auto;
+	word-wrap: break-word;
+}
+.news{
+	width: 320px;
+	border-radius: 25px;
+	padding: 10px;
+	margin: 15px;
+	border: 2px solid #a1a1a1;
+	background: #dddddd;
+	background:rgba(255,255,255,0.5);
+	min-height: 100px;
+	margin-left: -15px;
+}
+.title{
+	font-size: 140%;
+	font-family: Impact;
+	background-color: #FFC266;
+	padding: 4px;
+	border-radius: 15px;
+}
+#centering{
+	display: block; 
+	clear: both;
+}
+#left{	
+	float: left;
+	width: 50%;
+}
+
+/* footer */
+ footer {
+	color: black;
+	background-color: #FFBC59;
+	height:90px;    
+	border-radius: 0px 0px 15px 15px;
+ }
+#about{
+	width: 300px;
+	margin: 15px;
+	float: left;
+	font-size: 80%;
+}
+#donate{
+	margin-right: 20px;
+	margin-top: -10px;
+	float: right;
+	color: #000000;
+}
+a#donate:link {
+	text-decoration: none;
+}
+a#donate:hover {
+	color: #FF6600;
+}
+#eventhub{
+	color: #000000;
+}
+a#eventhub:link {
+	text-decoration: none;
+}
+a#eventhub:hover {
+	color: #FF6600;
+}
+#copy {
+   clear:both;
+   text-align:center;
+   font-size: 70%; 
+ }
+.gameborder{
+	margin: 15px;
+	border-radius: 25px;
+	padding: 10px;
+	border: 2px solid #a1a1a1;
+	background: #dddddd;
+	background:rgba(255,255,255,0.5);
+	min-height: 100px;
+	max-width: 740px;
+	word-wrap: break-word;
+}
