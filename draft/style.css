@@ -3,8 +3,8 @@ body{
 	font-family: Verdana;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #19191B;
-				font-family: 'Trebuchet MS', serif;
+	background-color: #e6e6e6;
+	font-family: 'Trebuchet MS', serif;
 	line-height: 1.6
 }
 /* Head */
@@ -40,7 +40,7 @@ p{
 }
 /*Menu Color Classes*/
 .orange{
-	background:#FFBC59;
+	background:#632CC0;
 }
 .donate{
 	background: red;
@@ -84,10 +84,11 @@ p{
 	margin-left: -15px;
 }
 .title{
-	font-size: 140%;
-	font-family: Impact;
-	background-color: #FFC266;
+	font-size: 130%;
+	font-family: Verdana;
+	background-color: #632CC0;
 	padding: 4px;
+	color: white;
 	border-radius: 15px;
 }
 #centering{
@@ -102,7 +103,7 @@ p{
 /* footer */
  footer {
 	color: black;
-	background-color: #FFBC59;
+	background-color: #632CC0;
 	height:90px;    
 	border-radius: 0px 0px 15px 15px;
  }
@@ -122,7 +123,7 @@ a#donate:link {
 	text-decoration: none;
 }
 a#donate:hover {
-	color: #FF6600;
+	color: white;
 }
 #eventhub{
 	color: #000000;
