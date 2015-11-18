@@ -20,21 +20,21 @@
 		<li class="orange">
 			<p><a href="#">Home</a></p>	
 		</li>
-		<li id="sim2" class="orange">
+		<li id="extend2" class="orange">
 			<p><a href="#">About Us</a></p>
 			<p class="subtext">History</p>
 			<p class="subtext">Center Rules</p>
 		</li>
-		<li id="sim1" class="orange">
+		<li id="extend2" class="orange">
 			<p><a href="#">Volunteer</a></p>
 			<p class="subtext">WSU Students</p>
 			<p class="subtext">parents</p>
 		</li>
-		<li class="orange">
-			<p><a href="#">menu4</a></p>
+		<li id="extend1" class="orange">
+			<p><a href="#">Support Us</a></p>
 			<p class="subtext">pew</p>
 		</li>
-		<li id="sim" class="donate">
+		<li class="donate">
 			<p><a href="#">Donate</a></p>
 			<p class="subtext">money</p>
 		</li>
