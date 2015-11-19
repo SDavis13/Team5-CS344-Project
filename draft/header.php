@@ -1,10 +1,9 @@
 <header>
-<a href="#"><img id="headLogo" src="images/logo.png"> </a> 
-
+<a href="#"><img id="headLogo" src="images/logo.png"> </a>
 </header>
 <!-- nav !-->
 <div id="nav">
-<ul>
+	<ul>
 		<li class="orange">
 			<p><a href="#">Home</a></p>	
 		</li>
@@ -26,7 +25,7 @@
 			<p><a href="#">Donate</a></p>
 			<p class="subtext">money</p>
 		</li>
-</ul>
+	</ul>
 </div>
 <div id="filler">
 </div>
