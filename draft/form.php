@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>template 1</title>
+	<title>Form</title>
 	<link rel="stylesheet" href="style.css">
 	<link href="images/thumb.png" type="image/gif" rel="shortcut icon">
 	<script src="http://jqueryjs.googlecode.com/files/jquery-1.3.js" type="text/javascript"></script>
@@ -47,7 +47,7 @@
 <!-- column 1 !-->
 <h1 id="form">Your Review of Volunteering at Kids First</h1>
  	
-<form action="http://localhost:8888/form.php" class="form" action="" method="post" name="order_form">
+<form action="confirmation.php" class="form" method="post" name="review_form">
 		<div id="form">
     	    <label for="name">Name:</label>
        	 	<input type="text" name="name" placeholder="John Doe" required />
@@ -58,16 +58,16 @@
     		<input type="radio" name="aa" value="two-five" />Two-Five</input>
     		<input type="radio" name="aa" value="six-ten" />Six-Ten</input>
     		<input type="radio" name="aa" value="semester" />A whole semester</input>
-    		<input type="radio" name="aa" value="semester" />More</input>
+    		<input type="radio" name="aa" value="more" />More</input>
     	</div>
 		<div id="form">
 			<label for="reason">Reason for Volunteering:</label>
     			<select name="reasonV">
     				<option selected></option>
-    				<option>Class</option>
-    				<option>Community Service</option>
-    				<option>On your own</option>
-    				<option>Other</option>
+    				<option value="class">Class</option>
+    				<option value="community service">Community Service</option>
+    				<option value="on own">On your own</option>
+    				<option value="other">Other</option>
     			</select>
 		</div>
 		<div id="form">
