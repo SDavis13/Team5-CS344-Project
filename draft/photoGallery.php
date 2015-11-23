@@ -3,6 +3,7 @@
 <head>
 	<?php $title = "Photo Gallery" ?>
 	<?php include 'head.php'; ?>
+	<script src="photoGallery.js" type="text/javascript"></script>
 </head>
 <body onload="daily()">
 <div id="wrapper">
