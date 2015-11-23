@@ -176,3 +176,12 @@ div.mainImg{
 	margin-left: auto;
 	margin-right: auto;
 }
+/* Contact Styling */
+td.contactData{
+	vertical-align: top;
+	padding-right: 20px;
+}
+iframe.googleMap{
+	display: block;
+	margin: 0 auto;
+}
