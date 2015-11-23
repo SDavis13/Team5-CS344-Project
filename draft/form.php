@@ -64,6 +64,12 @@
     		<button class="submit" type="submit">Submit</button>
 		</div>
 	</form>
+<?php
+	$message = $_REQUEST["message"];
+	$file = fopen("responselist.txt", "a+");
+	fwrite($file,$message);
+	print_r(error_get_last());
+?>
 <div id="centering"></div>
 </div>
 <?php include 'footer.php' ?>
