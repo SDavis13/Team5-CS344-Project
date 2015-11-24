@@ -48,6 +48,9 @@ p{
 .donate{
 	background: red;
 }
+.whitetxt{
+	color: white;
+}
 /*filler*/
 #filler{
 	background-color: white;
