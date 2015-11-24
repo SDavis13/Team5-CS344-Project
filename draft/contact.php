@@ -11,7 +11,7 @@
 	<!-- column 1 !-->
 	<div id="left"> 
 		<div class="border"> 
-			<span class="title">Location</span> 
+			<span class="title">Contact Information</span> 
 			<table>
 			<tr>
 				<td class="contactData" rowspan="3">Address:</td>
