@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	
-	$("img").mouseover(function(){
+	$("img").click(function(){
 		$(mainPicture).attr("src", ($(this).attr("src")));
 	});
 	
