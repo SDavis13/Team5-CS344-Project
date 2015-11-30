@@ -10,10 +10,10 @@
 <div id="main">
 	<h1>Wish List:</h1>
 	<?php
-	$overview = fopen("wishList.txt", "r");
+		$overview = file_get_contents("wishList.txt");
 	?>
 	<p>
-		<?php $overview ?>
+		<?= $overview ?>
 	</p>
 		
 <div id="centering"></div>
