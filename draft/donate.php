@@ -22,6 +22,8 @@
 		<div class="border"> 
 				<span class="title">Donate Money:</span> 
 			<p>
+				Under "Donation Information" for "Designation" please select "Other".
+				Then inside that box please type Kids First.<br>
 				<a href="https://www.alumni.winona.edu/netcommunity/onlinegift">Donation Site!</a>	
 			</p>
 		</div>
