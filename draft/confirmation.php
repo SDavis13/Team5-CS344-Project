@@ -10,7 +10,7 @@
 <div id="main">
 <?php
 try{
-	$db = new PDO("mysql:dbname=kids_first;host=localhost", "root", "root");
+	include dbconnect.php;
 	$stmt = $db->prepare("INSERT INTO kids_first.users (name) VALUES (:name);");
 	$stmt->bindParam(':name', $name);
 	$name = $_POST["name"];
