@@ -24,7 +24,7 @@
 			<p class="subtext"><a href="supportus.php">Support Us</a></p>
 		</li>
 		<li class="donate">
-			<p><a href="#">Donate</a></p>
+			<p><a href="https://www.alumni.winona.edu/netcommunity/onlinegift">Donate</a></p>
 		</li>
 	</ul>
 </div>
