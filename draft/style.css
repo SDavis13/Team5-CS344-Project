@@ -64,7 +64,7 @@ p{
 /*filler*/
 #filler{
 	background-color: white;
-	height: 290px;
+	height: 230px;
 	background-image: url('images/pic.png'), url('images/back.png');
 }
 /* body */
