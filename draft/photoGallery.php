@@ -3,12 +3,13 @@
 <head>
 	<?php $title = "Photo Gallery" ?>
 	<?php include 'head.php'; ?>
+	TESLKDJFALKSDJFALK
 	<script src="photoGallery.js" type="text/javascript"></script>
 </head>
 <body onload="daily()">
 <div id="wrapper">
 <?php include 'header.php'; ?>
-<div id="main">
+<main>
 	<!-- photo gallery stuff -->
 	<h1 class="Header">Photo Gallery</h1>
 	<div class="mainImg">
@@ -21,7 +22,7 @@
 		</div>
 	<?php } ?>
 <div id="centering"></div>
-</div>
+</main>
 <?php include 'footer.php' ?>
 </div> 
 </body>

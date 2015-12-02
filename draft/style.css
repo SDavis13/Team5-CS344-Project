@@ -105,14 +105,13 @@ p{
 	float: left;
 	width: 50%;
 }
-
 /* footer */
- footer {
+footer {
 	color: black;
 	background-color: #632CC0;
 	height:90px;    
 	border-radius: 0px 0px 15px 15px;
- }
+}
 #about{
 	width: 300px;
 	margin: 15px;

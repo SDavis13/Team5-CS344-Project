@@ -7,25 +7,25 @@
 <body onload="daily()">
 <div id="wrapper">
 <?php include 'header.php'; ?>
-<div id="main">
-<?php
-try{
-	include dbconnect.php;
-	$stmt = $db->prepare("INSERT INTO kids_first.users (name) VALUES (:name);");
-	$stmt->bindParam(':name', $name);
-	$name = $_POST["name"];
-	$stmt->execute();
-}
-catch(PDOException $e){
-	echo "Error: " . $e->getMessage();
-}
-?>
-<!-- column 1 !-->
-<h1 id="form">Your form has been submitted! Thank you!</h1>
-<h1><?= $name ?></h1>
+<main>
+	<?php
+	try{
+		include dbconnect.php;
+		$stmt = $db->prepare("INSERT INTO kids_first.users (name) VALUES (:name);");
+		$stmt->bindParam(':name', $name);
+		$name = $_POST["name"];
+		$stmt->execute();
+	}
+	catch(PDOException $e){
+		echo "Error: " . $e->getMessage();
+	}
+	?>
+	<!-- column 1 !-->
+	<h1 id="form">Your form has been submitted! Thank you!</h1>
+	<h1><?= $name ?></h1>
 
-<div id="centering"></div>
-</div>
+	<div id="centering"></div>
+</main>
 <?php include 'footer.php' ?>
 </div> 
 </body>

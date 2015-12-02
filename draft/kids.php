@@ -6,6 +6,7 @@
 </head>
 <div id="wrapper">
 <?php include 'header.php'; ?>
+<<<<<<< HEAD
 <div id="main">
 	<div id="left"> 
 		<div class="border"> 
@@ -44,6 +45,10 @@
 	</div>
 	<div id="centering"></div>
 </div>
+=======
+<main>
+</main>
+>>>>>>> origin/master
 <?php include 'footer.php' ?>
 </div> 
 </body>
