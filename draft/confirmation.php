@@ -43,6 +43,12 @@
 		$userid = $result["user_id"];
 		$stmtc->execute();
 		
+		$message = $_POST['message'];
+		$file = 'responselist.txt';
+		$current = file_get_contents($file);
+		$current .= $message;
+		file_put_contents($file, $current);
+		
 	}
 	catch(PDOException $e){
 		echo "Error: " . $e->getMessage();
