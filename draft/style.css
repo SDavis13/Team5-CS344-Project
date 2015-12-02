@@ -32,7 +32,7 @@ li{
 	text-align:center;
 	overflow:hidden;
 }
-nav a{
+a{
 	color:#FFF;
 	text-decoration:none;
 }
@@ -49,6 +49,12 @@ p{
 	padding-top:15px;
 }
 /*Menu Color Classes*/
+.extend2{
+	background:#632CC0;
+}
+.extend3{
+	background:#632CC0;
+}
 .orange{
 	background:#632CC0;
 }

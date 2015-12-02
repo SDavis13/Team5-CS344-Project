@@ -4,7 +4,7 @@
 	<?php $title = "Home" ?>
 	<?php include 'head.php'; ?>
 </head>
-<body onload="daily()">
+<body>
 <div id="wrapper">
 <?php include 'header.php'; ?>
 <div id="main">
