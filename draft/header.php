@@ -2,7 +2,7 @@
 <a href="home.php"><img id="headLogo" src="images/logo.gif"> </a>
 </header>
 <!-- nav !-->
-<div id="nav">
+<nav>
 	<ul>
 		<li class="orange">
 			<p><a href="home.php">Home</a></p>	
@@ -27,6 +27,6 @@
 			<p><a href="#">Donate</a></p>
 		</li>
 	</ul>
-</div>
+</nav>
 <div id="filler">
 </div>

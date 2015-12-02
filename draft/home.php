@@ -7,7 +7,7 @@
 <body>
 <div id="wrapper">
 <?php include 'header.php'; ?>
-<div id="main">
+<main>
 	<!-- column 1 !-->
 	<div id="left"> 
 		<div class="border"> 
@@ -30,7 +30,7 @@
 		</div>
 	</div>
 	<div id="centering"></div>
-</div>
+</main>
 <?php include 'footer.php' ?>
 </div> 
 </body>
