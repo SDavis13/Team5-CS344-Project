@@ -6,8 +6,8 @@
 </head>
 <div id="wrapper">
 <?php include 'header.php'; ?>
-<<<<<<< HEAD
-<div id="main">
+
+<main>
 <h1>Parents:</h1>
 	<p>
 		-->In order for your kids to attend Kids First, you must live in Maplewood.<br><br>
@@ -16,11 +16,8 @@
 		-->3:30-6:30--Is free time! Snacks, games, crafts, and scheduled activities.<br><br>
 		-->Child safety is a top Priority! No one can volunteer if they have a background of <em>Harming Children</em> or <em>Charges with weapons</em>!
 	</p>
-</div>
-=======
-<main>
 </main>
->>>>>>> origin/master
+
 <?php include 'footer.php' ?>
 </div> 
 </body>
