@@ -7,7 +7,15 @@
 <div id="wrapper">
 <?php include 'header.php'; ?>
 <main>
-	<?php include 'form.php'; ?>
+	
+		<div class="border"> 
+			<span class="title">How to Volunteer:</span> 
+			<p>
+				1.) Visit your D2L page and click on Self Registration. Next scroll down and click Kids First. Then click register.<br>
+				2.) 
+			</p>
+		</div>
+	
 </main>
 <?php include 'footer.php' ?>
 </div> 
