@@ -35,6 +35,9 @@ nav a{
 	color:#FFF;
 	text-decoration:none;
 }
+#photo{
+	float:right;
+}
 p{
 	padding:0px 5px;
 }
