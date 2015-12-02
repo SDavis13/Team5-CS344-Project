@@ -118,6 +118,12 @@ p{
 	float: left;
 	width: 50%;
 }
+.kids{
+	color: blue;
+}
+.kids:hover{
+	color: red;
+}
 /* footer */
 footer {
 	color: black;
