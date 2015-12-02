@@ -6,8 +6,8 @@
 </head>
 <div id="wrapper">
 <?php include 'header.php'; ?>
-<div id="main">
-</div>
+<main>
+</main>
 <?php include 'footer.php' ?>
 </div> 
 </body>

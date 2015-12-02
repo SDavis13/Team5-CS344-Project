@@ -2,7 +2,7 @@
 <a href="#"><img id="headLogo" src="images/logo.png"> </a>
 </header>
 <!-- nav !-->
-<div id="nav">
+<nav>
 	<ul>
 		<li class="orange">
 			<p><a href="home.php">Home</a></p>	
@@ -24,9 +24,9 @@
 			<p class="subtext"><a href="supportus.php">Support Us</a></p>
 		</li>
 		<li class="donate">
-			<p><a href="donate.php">Donate</a></p>
+			<p><a href="https://www.alumni.winona.edu/netcommunity/onlinegift">Donate</a></p>
 		</li>
 	</ul>
-</div>
+</nav>
 <div id="filler">
 </div>
