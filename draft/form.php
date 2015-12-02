@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<?php $title = "Form" ?>
-	<?php include 'head.php'; ?>
-</head>
-<body onload="daily()">
-<div id="wrapper">
-<?php include 'header.php'; ?>
-<main>
 	<!-- column 1 !-->
 	<h1 id="form">Your Review of Volunteering at Kids First</h1>
 		
@@ -74,8 +64,3 @@
 		fwrite($file,$message);
 	?>
 	<div id="centering"></div>
-</main>
-<?php include 'footer.php' ?>
-</div> 
-</body>
-</html>
