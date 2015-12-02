@@ -9,11 +9,11 @@ $(document).ready(function(){
 	$("li").mouseover(function(){
 		$(this).stop().animate({height:'50px'},{queue:false, duration:600, easing: 'easeOutBounce'})
 	});
-	$(extend1).mouseover(function(){
-		$(this).stop().animate({height:'120px'},{queue:false, duration:600, easing: 'easeOutBounce'})
-	});
 	$(extend2).mouseover(function(){
 		$(this).stop().animate({height:'175px'},{queue:false, duration:600, easing: 'easeOutBounce'})
+	});
+	$(extend3).mouseover(function(){
+		$(this).stop().animate({height:'230px'},{queue:false, duration:600, easing: 'easeOutBounce'})
 	});
 
 	//When mouse is removed
