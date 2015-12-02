@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php $title = "Form" ?>
+	<?php $title = "Confirmation" ?>
 	<?php include 'head.php'; ?>
 </head>
 <body onload="daily()">
@@ -50,7 +50,6 @@
 	?>
 	<!-- column 1 !-->
 	<h1 id="form">Your form has been submitted! Thank you!</h1>
-	<h1><?= $name ?></h1>
 
 	<div id="centering"></div>
 </main>
