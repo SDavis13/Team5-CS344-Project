@@ -121,6 +121,12 @@ p{
 .kids:hover{
 	color: red;
 }
+.link{
+	color: blue;
+}
+.link:hover{
+	color: #632CC0;
+}
 /* footer */
 footer {
 	color: black;

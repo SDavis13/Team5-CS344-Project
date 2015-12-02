@@ -21,7 +21,7 @@
 		<div class="border"> 
 				<span class="title">Donate Money:</span> 
 			<p>
-				<a href="https://www.alumni.winona.edu/netcommunity/onlinegift">Donation Site!</a>
+				<a class="link" href="https://www.alumni.winona.edu/netcommunity/onlinegift">Donation Site!</a>
 			</p>
 		</div>
 	</div>
