@@ -16,7 +16,8 @@ header{
 	border-radius: 15px 15px 0px 0px;
 }
 #headLogo{
-	margin-top: 43px;
+	margin-top: 20px;
+	width: 250px;
 }
 /*nav */
 ul{

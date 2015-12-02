@@ -7,43 +7,30 @@
 <body onload="daily()">
 <div id="wrapper">
 <?php include 'header.php'; ?>
-<main>
+<div id="main">
 	<!-- column 1 !-->
 	<div id="left"> 
 		<div class="border"> 
-			<span class="title">Title</span> 
+			<span class="title">Welcome to Kids First! </span> 
 			<p>
-				Content <br>
-				Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.
-			</p>
-		</div>
-		<div class="border"> 
-			<span class="title">Title</span> 
-			<p>
-				Content <br>
-				Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.
-			</p>
-		</div>
-		<div class="border"> 
-			<span class="title">Title</span> 
-			<p>
-				Content <br>
-				Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.
+				Welcome to Kids First! <br>
+				This is where the group decides which is the best welcoming text to put in so it feels like a solid website.
+				
 			</p>
 		</div>
 	</div>
 	<!-- column 1 !-->
 	<div id="left">
 		<div class="border"> 
-			<span class="title">Title</span> 
+			<span class="title">About us</span> 
 			<p>
-				Content <br>
-				Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.Put yo content here.
+				Kids First is a program for kids to come in after school for homework and play.  It was founded by Carol Marchant.  <br>
+				We get over hundreds of WSU students volunteering to play with the children coming in and to help with their homeworks.
 			</p>
 		</div>
 	</div>
 	<div id="centering"></div>
-</main>
+</div>
 <?php include 'footer.php' ?>
 </div> 
 </body>
