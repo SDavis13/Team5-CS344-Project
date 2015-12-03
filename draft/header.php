@@ -5,7 +5,7 @@
 <nav>
 	<ul>
 		<li class="orange">
-			<p><a href="home.php">Home</a></p>	
+			<p><a href="index.php">Home</a></p>	
 		</li>
 		<li class="extend2" class="orange">
 			<p class="whitetxt">About Us</p>
