@@ -115,6 +115,10 @@ p{
 	float: left;
 	width: 50%;
 }
+#full{	
+	float: left;
+	width: 100%;
+}
 .kids{
 	color: blue;
 }

@@ -9,10 +9,14 @@
 <?php include 'header.php'; ?>
 <main>
 	<article>
-		<h1>History</h1>
-		<p>
-			<?= file_get_contents("history.txt"); ?>
-		</p>
+		<div id="full">
+			<div class="border"> 
+				<span class="title">History</span> 
+				<p>
+					<?= file_get_contents("history.txt"); ?>
+				</p>
+			</div>
+		</div>
 	</article>
 	<div id="centering"></div>
 </main>

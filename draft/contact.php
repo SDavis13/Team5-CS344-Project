@@ -40,6 +40,7 @@
 				<td>Carol Marchant</td>
 			</tr>
 			</table>
+			<br/>
 		</div>
 	</div>
 	<!-- column 1 !-->
@@ -47,7 +48,7 @@
 		<div class="border"> 
 			<span class="title">Map</span> 
 			<br>
-			<iframe class="googleMap" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="350" height="225" src="https://maps.google.com/maps?hl=en&q=1756 Kraemer Dr. Winona, MN 55987&ie=UTF8&t=roadmap&z=14&iwloc=B&output=embed">
+			<iframe class="googleMap" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="350" height="231" src="https://maps.google.com/maps?hl=en&q=1756 Kraemer Dr. Winona, MN 55987&ie=UTF8&t=roadmap&z=14&iwloc=B&output=embed">
 				<div>
 					<small><a href="http://embedgooglemaps.com">embedgooglemaps.com</a></small>
 				</div>
