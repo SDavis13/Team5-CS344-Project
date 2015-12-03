@@ -50,14 +50,6 @@
 		$current .= $message.PHP_EOL;
 		file_put_contents($file, $current);
 		
-		mail('abuchanan11@winona.edu', 'Test', 'Test');
-		// Send an Email
-		$message = "Thank you so much for your feedback!\r\n\r\nPlease consider making a donation! We are currently in need of ".file_get_contents('wishList.txt') ."\r\nKids First <URL HERE>";
-		// In case any of our lines are larger than 70 characters, we should use wordwrap()
-		$message = wordwrap($message, 70, "\r\n");
-		mail($_POST["email"], 'Kids First - Thank You For Your Feedback', $message);
-		mail('abuchanan11@winona.edu', 'Test', 'Test');
-		
 	}
 	catch(PDOException $e){
 		echo "Error: " . $e->getMessage();
