@@ -19,7 +19,7 @@
 				4.) Kids First Picture ID: This can be obtained from the Campus Card Office by the Registrar Hub. Pay $3 at the Cashier 
 					Office, and then go to the Campus Card Office (Maxwell 227) and tell them you need a photo ID for the Kids First program. 
 					Bring the paid slip with you to the Campus Card Office.<br>
-				5.) <bold>Note: These are child safety issues. You cannot volunteer until all are complete.<br>
+				5.) <em>Note: These are child safety issues. You cannot volunteer until all are complete.</em><br>
 					
 			</p>
 		</div>
