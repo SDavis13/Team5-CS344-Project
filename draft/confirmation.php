@@ -47,9 +47,9 @@
 		$message = $_POST['message'];
 		$file = 'responselist.txt';
 		$current = file_get_contents($file);
-		$current .= $message;
+		$current .= $message.PHP_EOL;
 		file_put_contents($file, $current);
-		/
+		
 		mail('abuchanan11@winona.edu', 'Test', 'Test');
 		// Send an Email
 		$message = "Thank you so much for your feedback!\r\n\r\nPlease consider making a donation! We are currently in need of ".file_get_contents('wishList.txt') ."\r\nKids First <URL HERE>";
