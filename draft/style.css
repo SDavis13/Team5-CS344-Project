@@ -152,6 +152,9 @@ footer {
 	height:170px;    
 	border-radius: 0px 0px 15px 15px;
 }
+footer h3{
+	color:white;	
+}
 #about{
 	width: 300px;
 	margin: 15px;
