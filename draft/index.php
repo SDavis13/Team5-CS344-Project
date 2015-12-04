@@ -19,7 +19,7 @@
 			<p>
 				Welcome to Kids First! <br>
 
-				This is where the group decides which is the best welcoming text to put in so it feels like a solid website.
+				We are so happy you are visiting our website. Feel free to look around and give us feedback! Enjoy!
 			</p>
 		</div>
 	</div>
