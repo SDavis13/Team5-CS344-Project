@@ -8,10 +8,11 @@
 			<p><a href="index.php">Home</a></p>	
 		</li>
 		<li class="orange">
-			<div class="extend extend2">
+			<div class="extend extend3">
 				<p class="whitetxt">About Us</p>
 				<p class="subtext"><a href="history.php">History</a></p>
 				<p class="subtext"><a href="centerRules.php">Center Rules</a></p>
+				<p class="subtext"><a href="photoGallery.php">Photo Gallery</a></p>
 			</div>
 		</li>
 		<li class="orange">
