@@ -1,5 +1,5 @@
 <header>
-<a href="home.php"><img id="headLogo" src="images/logo.gif"> </a>
+<a href="index.php"><img id="headLogo" src="images/logo.gif"> </a>
 </header>
 <!-- nav !-->
 <nav>
