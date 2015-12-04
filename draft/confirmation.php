@@ -3,8 +3,9 @@
 <head>
 	<?php $title = "Confirmation" ?>
 	<?php include 'head.php'; ?>
+	<script src="js/timer.js"></script>
 </head>
-<body onload="daily()">
+<body onload="goHome()">
 <div id="wrapper">
 <?php include 'header.php'; ?>
 <main>
@@ -56,7 +57,7 @@
 	}
 	?>
 	<!-- column 1 !-->
-	<h1 id="form">Your form has been submitted! Thank you!</h1>
+	<h1 id="form">Your form has been submitted! Thank you! We are redirecting you to the homepage now.</h1>
 
 	<div id="centering"></div>
 </main>
