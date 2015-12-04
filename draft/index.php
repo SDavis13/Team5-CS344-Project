@@ -7,6 +7,10 @@
 <body>
 <div id="wrapper">
 <?php include 'header.php'; ?>
+
+<div id="filler">
+</div>
+
 <main>
 	<!-- column 1 !-->
 	<div id="left"> 
@@ -14,8 +18,8 @@
 			<span class="title">Welcome to Kids First! </span> 
 			<p>
 				Welcome to Kids First! <br>
-				Thank you so much for visiting this site. We hope it can provide a great resource to the Winona community.
-				
+
+				This is where the group decides which is the best welcoming text to put in so it feels like a solid website.
 			</p>
 		</div>
 	</div>
