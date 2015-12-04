@@ -14,6 +14,7 @@
 				<p class="subtext"><a href="centerRules.php">Center Rules</a></p>
 				<p class="subtext"><a href="photoGallery.php">Photo Gallery</a></p>
 			</div>
+			<div>_</div>
 		</li>
 		<li class="orange">
 			<div class="extend extend3">
@@ -22,6 +23,7 @@
 				<p class="subtext"><a href="parents.php">Parents</a></p>
 				<p class="subtext"><a href="students.php">WSU Students</a></p>
 			</div>
+			<div>_</div>
 		</li>
 		<li class="orange">
 			<div class="extend extend3">
@@ -30,6 +32,7 @@
 				<p class="subtext"><a href="supportus.php">Support Us</a></p>
 				<p class="subtext"><a href="feedback.php">Feedback</a></p>
 			</div>
+			<div>_</div>
 		</li>
 		<li class="donate">
 			<p><a href="#">Donate</a></p>

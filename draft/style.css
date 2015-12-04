@@ -32,14 +32,13 @@ nav{
 ul{
 	margin:0;
 	padding:0;
-	text-decoration:none;
+	list-style-type: none;
 }
 li{
 	width:20%;
 	float:left;
 	color:#191919;
 	text-align:center;
-	text-decoration:none;
 	position: relative;
 }
 .extend{
@@ -49,7 +48,6 @@ li{
 	overflow:hidden;
 	z-index: 20;
 	height: 2.6em;
-	text-decoration:none;
 }
 a{
 	color:#FFF;
@@ -68,6 +66,7 @@ p{
 }
 .orange{
 	background:#632CC0;
+	height: 2.6em;
 }
 .donate{
 	background: red;
