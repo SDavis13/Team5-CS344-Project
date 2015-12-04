@@ -57,7 +57,8 @@
 	}
 	?>
 	<!-- column 1 !-->
-	<h1 id="form">Your form has been submitted! Thank you! We are redirecting you to the homepage now.</h1>
+	<h1 id="form">Your form has been submitted! Thank you!<br>
+	We are redirecting you to the homepage now.</h1>
 
 	<div id="centering"></div>
 </main>
