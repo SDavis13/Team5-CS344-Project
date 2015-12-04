@@ -79,7 +79,7 @@ p{
 #filler{
 	background-color: white;
 	height: 230px;
-	background-image: url('images/pic.png'), url('images/back.png');
+	background-image: url('images/banner.png'), url('images/back.png');
 }
 /* body */
 #wrapper { 
